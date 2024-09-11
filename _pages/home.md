@@ -21,19 +21,19 @@ Her research focuses on efficient AI; specifically, she designs and optimizes al
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <!-- <div class="item active">
-            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/MagicDec.png" alt="Slide 1"  style="height:226px" />
+            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/MagicDec.png" alt="Slide 1"  style="height:226px" />
         </div>
         <div class="item">
-            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/TriForce.png" alt="Slide 2"  style="height:226px" />
+            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/TriForce.png" alt="Slide 2"  style="height:226px" />
         </div>
         <div class="item">
-            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/Sequoia.jpeg" alt="Slide 3" style="height:226px" />
+            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/Sequoia.jpeg" alt="Slide 3" style="height:226px" />
         </div>
         <div class="item">
-            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/memory_breakdown.jpg" alt="Slide 4" style="height:226px" />
+            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/memory_breakdown.jpg" alt="Slide 4" style="height:226px" />
         </div>
         <div class="item">
-            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/scheme.jpg" alt="Slide 5" style="height:226px" />
+            <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/scheme.jpg" alt="Slide 5" style="height:226px" />
         </div> -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -60,8 +60,8 @@ Her research focuses on efficient AI; specifically, she designs and optimizes al
 
 <!-- 
 <figure class="fourth">
-  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/lab-page/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure> -->

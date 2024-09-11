@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "NGAI Lab at HKU."
 sitemap: false
-permalink: /lab-page/allnews.html
+permalink: /allnews.html
 ---
 
 # News
