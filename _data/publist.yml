@@ -1,0 +1,9 @@
+# - title: "TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding"
+#   image: TriForce.png
+#   description: With large language models (LLMs) deployed for long content generation, the growing key-value (KV) cache size has become a bottleneck, leading to low computational core utilization and high latency. TriForce, a hierarchical speculative decoding system, addresses this by using dynamic sparse KV cache via retrieval and a smaller model for speculative decoding, achieving up to 2.31× speedup on an A100 GPU and notable efficiency on RTX 4090 GPUs. TriForce also outperforms DeepSpeed-Zero-Inference by 4.86× on a single RTX 4090 GPU, maintaining robust performance across various temperatures.
+#   authors: Hanshi Sun, Zhuoming Chen, Xinyu Yang, Yuandong Tian, Beidi Chen
+#   link:
+#     url: https://arxiv.org/abs/2404.11912
+#     blog: https://infini-ai-lab.github.io/TriForce/
+#     display: Arxiv
+#   highlight: 1
