@@ -62,7 +62,7 @@ ICML2024
 Cai, Ruisi; Tian, Yuandong; Wang, Zhangyang; Chen, Beidi  
 ICML2024
 
-**[HexGen: Generative Inference of Large Language Model over Heterogeneous Environment](https://arxiv.org/abs/2311.11514)**  
+**[HexGen: Gen Inference of Large Language Model over Heterogeneous Environment](https://arxiv.org/abs/2311.11514)**  
 Jiang, Youhe; Yan, Ran; Yao, Xiaozhe; Zhou, Yang; Chen, Beidi; Yuan, Binhang  
 ICML2024
 
@@ -94,7 +94,7 @@ ICLR2024
 Charikar, Moses; Chen, Beidi; Ré, Christopher; Waingarten, Erik  
 COLT2023
 
-**[H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models](https://arxiv.org/abs/2306.14048)**  
+**[H2O: Heavy-Hitter Oracle for Efficient Gen Inference of Large Language Models](https://arxiv.org/abs/2306.14048)**  
 Zhang, Zhenyu; Sheng, Ying; Zhou, Tianyi; Chen, Tianlong; Zheng, Lianmin; Cai, Ruisi; Song, Zhao; Tian, Yuandong; Ré, Christopher; Barrett, Clark; Wang, Zhangyang; Chen, Beidi  
 NeurIPS2023
 
@@ -110,7 +110,7 @@ NeurIPS2023
 Liu, Zichang; Wang, Jue; Dao, Tri; Zhou, Tianyi; Yuan, Binhang; Song, Zhao; Shrivastava, Anshumali; Zhang, Ce; Tian, Yuandong; Re, Christopher; Chen, Beidi  
 ICML2023 (<font color=Red>Oral</font>)
 
-**[FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)**   
+**[FlexGen: High-Throughput Gen Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)**   
 Sheng, Ying; Zheng, Lianmin; Yuan, Binhang; Li, Zhuohan; Ryabinin, Max; Chen, Beidi; Liang, Percy; Re, Christopher; Stoica, Ion; Zhang, Ce
 ICML2023 (<font color=Red>Oral</font>)
 

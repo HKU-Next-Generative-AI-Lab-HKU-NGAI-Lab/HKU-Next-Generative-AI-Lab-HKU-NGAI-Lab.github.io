@@ -19,7 +19,7 @@ Example recent work:
 
 [1] Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding. 2024 
 
-[2] HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment
+[2] HexGen: Gen Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment
 
 [3] Prompt-prompted Mixture of Experts for Efficient LLM Generation. 2024
 
@@ -27,7 +27,7 @@ Example recent work:
 
 [5] Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time. 2023
 
-[6] FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU. 2023
+[6] FlexGen: High-Throughput Gen Inference of Large Language Models with a Single GPU. 2023
 
 [7] Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees. 2023
 
@@ -49,7 +49,7 @@ Example recent work:
 
 [6] Efficient Streaming Language Models with Attention Sinks. 2023
 
-[7] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models. 2023
+[7] H2O: Heavy-Hitter Oracle for Efficient Gen Inference of Large Language Models. 2023
 
 
 ## Semi-parametric modeling for new scaling law
