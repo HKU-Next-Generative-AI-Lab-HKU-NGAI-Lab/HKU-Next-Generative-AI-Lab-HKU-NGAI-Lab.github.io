@@ -1,14 +1,14 @@
 ---
-title: "NGAI Lab - Team"
+title: "NGai Lab - Team"
 layout: gridlay
-excerpt: "NGAI Lab: Team members"
+excerpt: "NGai Lab: Team members"
 sitemap: false
 permalink: /people/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)](https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)](https://hku-next-generative-ai-lab-hku-NGai-lab.github.io/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -20,7 +20,7 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="https://hku-next-generative-ai-lab-hku-NGai-lab.github.io/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">

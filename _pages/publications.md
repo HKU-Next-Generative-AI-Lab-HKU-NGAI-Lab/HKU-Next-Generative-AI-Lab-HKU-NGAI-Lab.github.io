@@ -1,7 +1,7 @@
 ---
-title: "NGAI Lab - Publications"
+title: "NGai Lab - Publications"
 layout: gridlay
-excerpt: "NGAI Lab -- Publications."
+excerpt: "NGai Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

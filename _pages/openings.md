@@ -1,5 +1,5 @@
 ---
-title: "NGAI Lab - Vacancies"
+title: "NGai Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -18,5 +18,5 @@ permalink: /vacancies
 
 
 ### Applications for Internship positions
-<!-- Contact me (or any group member) per email or stop by my office if you are a CMU student. Also, you need to fill in our [application form](https://docs.google.com/forms/d/e/1FAIpQLSfMJwpRMARPuwhzuoPo_76VrGPq84FkFrFNAnp3P17ITyxF9Q/viewform?usp=pp_url -->
-).
+<!-- Contact me (or any group member) per email or stop by my office if you are a CMU student. Also, you need to fill in our [application form](https://docs.google.com/forms/d/e/1FAIpQLSfMJwpRMARPuwhzuoPo_76VrGPq84FkFrFNAnp3P17ITyxF9Q/viewform?usp=pp_url
+). -->

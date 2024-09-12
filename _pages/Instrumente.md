@@ -1,5 +1,5 @@
 ---
-title: "NGAI Lab - Instrumente"
+title: "NGai Lab - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

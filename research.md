@@ -1,7 +1,7 @@
 ---
-title: "Ngai Lab - Research"
+title: "NGai Lab - Research"
 layout: textlay
-excerpt: "Ngai Lab -- Research"
+excerpt: "NGai Lab -- Research"
 sitemap: false
 permalink: /research/
 ---

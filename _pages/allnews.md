@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "NGAI Lab at HKU."
+excerpt: "NGai Lab at HKU."
 sitemap: false
 permalink: /allnews.html
 ---

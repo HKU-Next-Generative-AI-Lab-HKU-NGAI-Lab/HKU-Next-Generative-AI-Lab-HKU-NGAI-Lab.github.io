@@ -1,7 +1,7 @@
 ---
-title: "NGAI Lab - Publications"
+title: "NGai Lab - Publications"
 layout: gridlay
-excerpt: "NGAI Lab -- Publications."
+excerpt: "NGai Lab -- Publications."
 sitemap: false
 permalink: /blog/
 ---
@@ -22,7 +22,7 @@ permalink: /blog/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="https://hku-next-generative-ai-lab-hku-ngai-lab.github.io/images/pubpic/{{ publi.image }}" class="img-responsive" width="93%" style="float: left" />
+  <img src="https://hku-next-generative-ai-lab-hku-NGai-lab.github.io/images/pubpic/{{ publi.image }}" class="img-responsive" width="93%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.blog }}">Read More</a></strong></p>
