@@ -1,9 +1,20 @@
-# - title: "TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding"
-#   image: TriForce.png
-#   description: With large language models (LLMs) deployed for long content generation, the growing key-value (KV) cache size has become a bottleneck, leading to low computational core utilization and high latency. TriForce, a hierarchical speculative decoding system, addresses this by using dynamic sparse KV cache via retrieval and a smaller model for speculative decoding, achieving up to 2.31× speedup on an A100 GPU and notable efficiency on RTX 4090 GPUs. TriForce also outperforms DeepSpeed-Zero-Inference by 4.86× on a single RTX 4090 GPU, maintaining robust performance across various temperatures.
-#   authors: Hanshi Sun, Zhuoming Chen, Xinyu Yang, Yuandong Tian, Beidi Chen
-#   link:
-#     url: https://arxiv.org/abs/2404.11912
-#     blog: https://infini-ai-lab.github.io/TriForce/
-#     display: Arxiv
-#   highlight: 1
+- title: "Mixture-of-Subspaces in Low-Rank Adaptation"
+  image: moslora.png
+  description: We introduce a subspace-inspired Low-Rank Adaptation (LoRA) method, which is computationally efficient, easy to implement, and readily applicable to large language, multimodal, and diffusion models.
+  authors: Taiqiang Wu, Jiahao Wang, Zhe Zhao, Ngai Wong
+  link:
+    url: https://arxiv.org/abs/2406.11909
+    blog: https://zhuanlan.zhihu.com/p/704761512
+    display: Arxiv
+  highlight: 1
+
+
+- title: "Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models"
+  image: akl.png
+  description: We provide a deeper insight into forward KL and reverse KL in the KD for LLM and then propose a novel AKL based on the analysis.
+  authors: Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong
+  link:
+    url: https://arxiv.org/abs/2404.02657
+    blog: https://zhuanlan.zhihu.com/p/690748958
+    display: Arxiv
+  highlight: 1
