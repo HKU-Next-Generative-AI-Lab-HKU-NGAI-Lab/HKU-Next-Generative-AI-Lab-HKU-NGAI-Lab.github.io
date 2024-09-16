@@ -12,4 +12,7 @@ images: images/pubpic
 
 data: _pages/publications.md
 
-#
+# Update Openings
+
+data: _pages/openings.md
+
