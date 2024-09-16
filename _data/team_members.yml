@@ -88,19 +88,7 @@
   photo: zc.jpg
   info: PhD Stduent
   email: czhang6@connect.hku.hk
-  number_educ: 0
-
-- name: <a href="https://chen2hang.github.io/">Chen Zhang</a>
-  photo: zc.jpg
-  info: PhD Stduent
-  email: czhang6@connect.hku.hk
-  number_educ: 0
-
-- name: <a href="https://chen2hang.github.io/">Yuxin Cheng</a>
-  photo: cyx.jpg
-  info: PhD Stduent
-  email: yxcheng@connect.hku.hk
-  number_educ: 0
+  number_educ: 
 
 - name: Yuxin Cheng
   photo: cyx.jpg
@@ -137,4 +125,41 @@
   photo: azl.jpg
   info: PhD Stduent
   email: zhilin.ai@connect.hku.hk
+  number_educ: 0
+
+
+- name: <a href="https://chaofantao.top/">Chaofan Tao</a>
+  photo: tcf.jpg
+  info: Alumni
+  email: cftao@connect.hku.hk
+  number_educ: 0
+
+- name: <a href="https://www.linkedin.com/in/jason-chun-lok-li-0590b3166/">Jason Chun Lok Li</a>
+  photo: jason.jpg
+  info: Alumni
+  email: jasonlcl@connect.hku.hk
+  number_educ: 0
+
+- name: Chang Liu
+  photo: lc.jpg
+  info: Alumni
+  email: lcon7@connect.hku.hk
+  number_educ: 0
+
+- name: <a href="rlin27.github.io">Rui Lin</a>
+  photo: lr.jpg
+  info: Alumni
+  email: ruilin0212@gmail.com
+  number_educ: 0
+
+- name: Jie Ran
+  photo: rj.jpg
+  info: Alumni
+  email: jieran@eee.hku.hk
+  number_educ: 0
+
+- name: <a href="https://scholar.google.com/citations?user=_ri26UsAAAAJ&hl=zh-CN">Tianshu Hou</a>
+  photo: hts.jpg
+  info: Visiting Student
+  email: tianshu.hou@mail.utoronto.ca
   number_educ: 0
