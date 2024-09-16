@@ -1,5 +1,11 @@
-# - name: <a href="https://www.andrew.cmu.edu/user/beidic/">Beidi Chen</a>
-#   photo: beidichen.png
-#   info: Assistant professor
-#   email: beidic@andrew.cmu.edu
-#   number_educ: 0
+- name: <a href="https://www.eee.hku.hk/~nwong/">Ngai Wong</a>
+  photo: nwong.png
+  info: Assistant professor
+  email: nwong@eee.hku.hk
+  number_educ: 0
+
+- name: <a href="https://wutaiqiang.github.io/">Taiqiang Wu</a>
+  photo: wtq.jpg
+  info: PhD Stduent
+  email: takiwu@connect.hku.hk
+  number_educ: 0
