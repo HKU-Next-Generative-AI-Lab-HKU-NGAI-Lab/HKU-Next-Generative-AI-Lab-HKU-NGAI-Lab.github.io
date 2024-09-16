@@ -1,11 +1,140 @@
 - name: <a href="https://www.eee.hku.hk/~nwong/">Ngai Wong</a>
-  photo: nwong.png
-  info: Assistant professor
+  photo: nwong.jpg
+  info: Assistant Professor
   email: nwong@eee.hku.hk
+  number_educ: 0
+
+- name: <a href="https://zhengwuliu.github.io/">Zhengwu Liu</a>
+  photo: lzw.jpg
+  info: Research Assistant Professor
+  email: zwliu@eee.hku.hk
+  number_educ: 0
+
+
+
+- name: <a href="https://harr7y.github.io/">Binxiao Huang</a>
+  photo: hbx.jpg
+  info: PhD Stduent
+  email: bxhuang@eee.hku.hk
+  number_educ: 0
+
+
+- name: Wenyong Zhou
+  photo: zwy.jpg
+  info: PhD Stduent
+  email: wenyongz@connect.hku.hk
+  number_educ: 0
+
+
+- name: <a href="https://easongzy.github.io/">Ziyi Guan</a>
+  photo: gzy.jpg
+  info: PhD Stduent
+  email: zyguan@eee.hku.hk
+  number_educ: 0
+
+- name: <a href="https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ">Jiajun Zhou</a>
+  photo: zjj.jpg
+  info: PhD Stduent
+  email: ryjjc@connect.hku.hk
   number_educ: 0
 
 - name: <a href="https://wutaiqiang.github.io/">Taiqiang Wu</a>
   photo: wtq.jpg
   info: PhD Stduent
   email: takiwu@connect.hku.hk
+  number_educ: 0
+
+- name: Xincheng Feng
+  photo: fxc.jpg
+  info: PhD Stduent
+  email: xcfeng@connect.hku.hk
+  number_educ: 0
+
+
+- name: Shuqi Wang
+  photo: wsq.jpg
+  info: PhD Stduent
+  email: sqwang26@connect.hku.hk
+  number_educ: 0
+
+
+- name: <a href="https://me.danieldc.xyz/">Chenchen Ding</a>
+  photo: dcc.jpg
+  info: PhD Stduent
+  email: dingcc@connect.hku.hk
+  number_educ: 0
+
+
+- name: Haoyu Wang
+  photo: why.jpg
+  info: PhD Stduent
+  email: wanghy23@connect.hku.hk
+  number_educ: 0
+
+
+- name: <a href="https://vincentxwd.github.io/">Wendong Xu</a>
+  photo: xwd.jpg
+  info: PhD Stduent
+  email: wdxu@eee.hku.hk
+  number_educ: 0
+
+- name: <a href="https://mikehhq.github.io/">Haiqiao Hong</a>
+  photo: hhq.jpg
+  info: PhD Stduent
+  email: haiqiao@connect.hku.hk
+  number_educ: 0
+
+- name: <a href="https://chen2hang.github.io/">Chen Zhang</a>
+  photo: zc.jpg
+  info: PhD Stduent
+  email: czhang6@connect.hku.hk
+  number_educ: 0
+
+- name: <a href="https://chen2hang.github.io/">Chen Zhang</a>
+  photo: zc.jpg
+  info: PhD Stduent
+  email: czhang6@connect.hku.hk
+  number_educ: 0
+
+- name: <a href="https://chen2hang.github.io/">Yuxin Cheng</a>
+  photo: cyx.jpg
+  info: PhD Stduent
+  email: yxcheng@connect.hku.hk
+  number_educ: 0
+
+- name: Yuxin Cheng
+  photo: cyx.jpg
+  info: PhD Stduent
+  email: yxcheng@connect.hku.hk
+  number_educ: 0
+
+
+- name: Sidi Yang
+  photo: ysd.jpg
+  info: PhD Stduent
+  email: yangsidi99@connect.hku.hk
+  number_educ: 0
+
+- name: <a href="https://hxriver.github.io/">He Xiao</a>
+  photo: xh.jpg
+  info: PhD Stduent
+  email: hexiaoriver@connect.hku.hk
+  number_educ: 0
+
+- name: <a href="https://menik1126.github.io/">Jing Xiong</a>
+  photo: xj.jpg
+  info: PhD Stduent
+  email: junexiong@connect.hku.hk
+  number_educ: 0
+
+- name: Jiachen Ren
+  photo: rjc.jpg
+  info: PhD Stduent
+  email: renjiachen@connect.hku.hk
+  number_educ: 0
+
+- name: <a href="https://www.linkedin.com/in/zhilin-ai-03b1a4219/?originalSubdomain=hk">Zhilin Ai</a>
+  photo: azl.jpg
+  info: PhD Stduent
+  email: zhilin.ai@connect.hku.hk
   number_educ: 0
