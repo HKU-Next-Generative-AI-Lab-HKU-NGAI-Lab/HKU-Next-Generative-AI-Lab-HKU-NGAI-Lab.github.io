@@ -20,13 +20,13 @@ His research focuses on efficient AI.
 
   <!-- Items -->
   <div class="carousel-inner" markdown="0">
-        <div class="item active">
+        <div class="item active" align="center">
             <img src="https://hku-ngai.github.io/images/home_run_images/new_year_gather_2024.jpg" alt="Slide 1"  style="height:226px" />
         </div>
-        <div class="item">
+        <div class="item" align="center">
             <img src="https://hku-ngai.github.io/images/home_run_images/new_year_gather_2024_2.jpg" alt="Slide 2"  style="height:226px" />
         </div>
-        <div class="item">
+        <div class="item" align="center">
             <img src="https://hku-ngai.github.io/images/home_run_images/teacher_day_2024.jpg" alt="Slide 3" style="height:226px" />
         </div>
   </div>
