@@ -16,3 +16,6 @@ data: _pages/publications.md
 
 data: _pages/openings.md
 
+# Update Home
+
+data: _pages/home.md

@@ -20,7 +20,7 @@ Chaofan Tao, Qian Liu, Longxu Dou, Niklas Muennighoff, Zhongwei Wan, Ping Luo, M
 Taiqiang Wu, Jiahao Wang, Zhe Zhao, Ngai Wong
 
 
-**[Poisoning-based Backdoor Attacks for Arbitrary Target Label with Positive Triggers](https://arxiv.org/abs/2405.05573)**  
+**[Poisoning-based Backdoor Attacks for Arbitrary Target Label with Positive Triggers](https://arxiv.org/abs/2405.05573)**    
 Binxiao Huang, Jason Chun Lok, Chang Liu, Ngai Wong
 
 **[Stochastic Multivariate Universal-Radix Finite-State Machine: a Theoretically and Practically Elegant Nonlinear Function Approximator](https://arxiv.org/pdf/2405.02356)**    
