@@ -16,17 +16,17 @@ Yupeng Su, Ziyi Guan, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Graziano Chesi, Nga
 Chaofan Tao, Qian Liu, Longxu Dou, Niklas Muennighoff, Zhongwei Wan, Ping Luo, Min Lin, Ngai Wong
 
 
-**[Mixture-of-Subspaces in Low-Rank Adaptation](https://arxiv.org/abs/2406.11909)**  
+**[Mixture-of-Subspaces in Low-Rank Adaptation](https://arxiv.org/abs/2406.11909)**   
 Taiqiang Wu, Jiahao Wang, Zhe Zhao, Ngai Wong
 
 
-**[Poisoning-based Backdoor Attacks for Arbitrary Target Label with Positive Triggers](https://arxiv.org/abs/2405.05573)**
+**[Poisoning-based Backdoor Attacks for Arbitrary Target Label with Positive Triggers](https://arxiv.org/abs/2405.05573)**  
 Binxiao Huang, Jason Chun Lok, Chang Liu, Ngai Wong
 
-**[Stochastic Multivariate Universal-Radix Finite-State Machine: a Theoretically and Practically Elegant Nonlinear Function Approximator](https://arxiv.org/pdf/2405.02356)**
+**[Stochastic Multivariate Universal-Radix Finite-State Machine: a Theoretically and Practically Elegant Nonlinear Function Approximator](https://arxiv.org/pdf/2405.02356)**    
 Xincheng Feng, Guodong Shen, Jianhao Hu, Meng Li, Ngai Wong
 
-**[Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2404.02657)** 
+**[Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2404.02657)**   
 Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong
 
 
@@ -36,7 +36,7 @@ Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong
 Chen Zhang, Steven Tin Sui Luo, Jason Chun Lok Li, Yik-Chung Wu, Ngai Wong   
 ICML2024
 
-**[An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design](https://ieeexplore.ieee.org/document/10546743)**   
+**[An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design](https://ieeexplore.ieee.org/document/10546743)**     
 Ziyi Guan, Boyu Li, Yuan Ren, Muqun Niu, Hantao Huang, Graziano Chesi, Hao Yu, Ngai Wong  
 DATE2024
 
@@ -52,7 +52,7 @@ DAC2024
 Yifan Yang, Jiajun Zhou, Ngai Wong, Zheng Zhang  
 NAACL2024
 
-**[Physics-Informed Learning for Versatile RRAM Reset and Retention Simulation](https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473856)**     
+**[Physics-Informed Learning for Versatile RRAM Reset and Retention Simulation](https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473856)**         
 Tianshu Hou, Yuan Ren, Wenyong Zhou, Can Li, Zhongrui Wang, Hai-Bao Chen, Ngai Wong   
 ASP-DAC2024
 
