@@ -19,3 +19,5 @@ data: _pages/openings.md
 # Update Home
 
 data: _pages/home.md
+
+news bar: _data/news.yml
