@@ -20,7 +20,7 @@ His research focuses on efficient AI.
 
   <!-- Items -->
   <div class="carousel-inner" markdown="0">
-        <div class="item">
+        <div class="item active">
             <img src="https://hku-ngai.github.io/images/home_run_images/new_year_gather_2024.jpg" alt="Slide 1"  style="height:226px" />
         </div>
         <div class="item">
