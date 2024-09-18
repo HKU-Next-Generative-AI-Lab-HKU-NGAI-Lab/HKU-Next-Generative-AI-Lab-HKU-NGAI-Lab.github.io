@@ -6,6 +6,8 @@ sitemap: false
 permalink: /publications/
 ---
 
+[Full Publication List](https://www.eee.hku.hk/~nwong/pubs.html)
+
 ## Preprints
 
 **[LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models](https://arxiv.org/abs/2408.10631)**  
