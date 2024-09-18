@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-[Full Publication List](https://www.eee.hku.hk/~nwong/pubs.html)
+### [Full Publication List](https://www.eee.hku.hk/~nwong/pubs.html)
 
 ## Preprints
 
