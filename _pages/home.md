@@ -6,8 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-### About NGai Lab
-**Ngai Wong** is an Associate Professor at The University of Hong Kong.
+### About HKU NGai Lab
+[Ngai Wong](https://www.eee.hku.hk/~nwong/) is an Associate Professor at The University of Hong Kong.
+Before that, he received his B.Eng. (first class honor) in 1999 and Ph.D. in 2003 (Advisor: Prof. T.S. Ng), both in Electrical and Electronic Engineering, from The University of Hong Kong.
+From Jan 2003 to Sep 2003, he was a visiting scholar at the School of Electrical and Computer Engineering, Purdue University, Indiana, USA.
+he got hired in Dec 2003 by my mother school and now I am working as an Associate Professor there.
 
 His research focuses on efficient AI.
 
@@ -16,6 +19,7 @@ His research focuses on efficient AI.
   <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
   </ol>
 
   <!-- Items -->
